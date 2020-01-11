@@ -2,7 +2,7 @@ body {
     background-color: brown;
 }
 span {
-    background: greenyellow;
+    background: gray;
     width: 300px;
     height: 60px;
     display: inline-block;
