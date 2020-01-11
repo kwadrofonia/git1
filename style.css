@@ -1,0 +1,9 @@
+body {
+    background-color: brown;
+}
+span {
+    background: greenyellow;
+    width: 300px;
+    height: 60px;
+    display: inline-block;
+}
