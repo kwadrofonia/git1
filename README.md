@@ -8,3 +8,4 @@ Naucz się więcej na [Strona](https://www.wsb.pl)
 
 Fragment kodu JS
 ```
+https://github.com/kwadrofonia/git1.git
